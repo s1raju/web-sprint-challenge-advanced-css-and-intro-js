@@ -1,5 +1,6 @@
 {
   "name": "web-sprint-challenge-advanced-css-and-intro-js",
+  "type": "module",
   "version": "1.0.0",
   "description": "**Read these instructions carefully. Understand exactly what is expected _before_ starting this Sprint Challenge.**",
   "main": "index.js",
